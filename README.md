@@ -11,7 +11,12 @@
 
 ![screenshot](https://github.com/Santoz98/project-description/blob/main/pro1.JPG)
 
+## Project link
+
+[Expense Tracker - project link](https://mean-van.surge.sh/) 
+
 The app is an realtime expense tracker connected with firebase authentication and realtime database.
+
 
 ## Features
 
@@ -31,6 +36,10 @@ The app is an realtime expense tracker connected with firebase authentication an
 
 ![screenshot](https://github.com/Santoz98/project-description/blob/main/pro4.JPG)
 
+## Project link
+
+[Movie DB App - project link](https://productive-head.surge.sh/) 
+
 The app is a library collection of movies and series.
 
 ## Features
@@ -49,6 +58,10 @@ The app is a library collection of movies and series.
 
 ![screenshot](https://github.com/Santoz98/project-description/blob/main/pro3.JPG)
 
+## Project link
+
+[Meals cart- project link](https://shy-tongue.surge.sh/) 
+
 The app is a small demo on placing the order from the meals cart.
 
 ## Features
@@ -64,6 +77,10 @@ The app is a small demo on placing the order from the meals cart.
 
 ![screenshot](https://github.com/Santoz98/project-description/blob/main/pro5.JPG)
 
+## Project link
+
+[Shopping list- project link](https://undesirable-pump.surge.sh/) 
+
 The app is a simple to-do list
 
 ## Features
@@ -73,6 +90,6 @@ The app is a simple to-do list
 
 ## Responsive Web Design Challenges
 
-- [Devchallenges.io portfolio](https://devchallenges.io/portfolio/Santoz98) - My portfolio link on devchallenges.io consisting solutions to few responsive web design challenges.
+[Devchallenges.io portfolio](https://devchallenges.io/portfolio/Santoz98) - My portfolio link on devchallenges.io consisting solutions to few responsive web design challenges.
 
 
