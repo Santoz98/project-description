@@ -3,7 +3,6 @@
 ## Projects
 
 - [Expense Tracker](#tracker)
-  -[Features](#expensefeature) 
 - [Movie DB App](#movies)
 - [Meals Cart](#cart)
 - [Shopping list](#shopping)
@@ -18,8 +17,9 @@ The app is an realtime expense tracker connected with firebase authentication an
 
 - Login / Signup using email and password
 - Managing expenses are done in realtime.
-- Auto login
-- Redux toolkit for state management
+- Multiple users.
+- Auto login.
+- Redux toolkit for state management.
 
 ## Tech
 
@@ -49,6 +49,30 @@ The app is a library collection of movies and series.
 
 ![screenshot](https://github.com/Santoz98/project-description/blob/main/pro3.JPG)
 
+The app is a small demo on placing the order from the meals cart.
+
+## Features
+
+- Meals list loaded from firebase database
+- Place order using input forms
+
+## Tech
+
+- [Firebase](https://firebase.google.com/) - Firebase is Google's mobile platform that helps you quickly develop high-quality apps and grow your business.
+
 ## Shopping list
 
 ![screenshot](https://github.com/Santoz98/project-description/blob/main/pro5.JPG)
+
+The app is a simple to-do list
+
+## Features
+
+- Simple to-do list
+
+
+## Responsive Web Design Challenges
+
+- [Devchallenges.io portfolio](https://devchallenges.io/portfolio/Santoz98) - My portfolio link on devchallenges.io consisting solutions to few responsive web design challenges.
+
+
