@@ -13,7 +13,7 @@
 
 ## Project link
 
-[Expense Tracker - project link](https://mean-van.surge.sh/) - Guest UserName: test@gmail.com & Password:test@1234
+[Expense Tracker - project link](https://mean-van.surge.sh/) - Guest UserName: test@test.com & Password:test@1234
 
 The app is an realtime expense tracker connected with firebase authentication and realtime database.
 
