@@ -1,6 +1,12 @@
 <h1 align="center">Projects</h1>
 
-## Projects
+## Responsive Web Design Challenges
+
+[Devchallenges.io portfolio](https://devchallenges.io/portfolio/Santoz98) - My portfolio link on devchallenges.io consisting solutions to few responsive web design challenges.
+
+
+
+## React Projects
 
 - [Expense Tracker](#tracker)
 - [Movie DB App](#movies)
@@ -9,7 +15,7 @@
 
 ## Expense Tracker
 
-![screenshot](https://github.com/Santoz98/project-description/blob/main/pro1.JPG)
+![screenshot](https://github.com/Santoz98/project-description/blob/main/images/pro1.JPG)
 
 ## Project link
 
@@ -34,7 +40,7 @@ The app is an realtime expense tracker connected with firebase authentication an
 
 ## Movie DB App
 
-![screenshot](https://github.com/Santoz98/project-description/blob/main/pro4.JPG)
+![screenshot](https://github.com/Santoz98/project-description/blob/main/images/pro4.JPG)
 
 ## Project link
 
@@ -56,7 +62,7 @@ The app is a library collection of movies and series.
 
 ## Meals Cart
 
-![screenshot](https://github.com/Santoz98/project-description/blob/main/pro3.JPG)
+![screenshot](https://github.com/Santoz98/project-description/blob/main/images/pro3.JPG)
 
 ## Project link
 
@@ -75,7 +81,7 @@ The app is a small demo on placing the order from the meals cart.
 
 ## Shopping list
 
-![screenshot](https://github.com/Santoz98/project-description/blob/main/pro5.JPG)
+![screenshot](https://github.com/Santoz98/project-description/blob/main/images/pro5.JPG)
 
 ## Project link
 
@@ -87,9 +93,5 @@ The app is a simple to-do list
 
 - Simple to-do list
 
-
-## Responsive Web Design Challenges
-
-[Devchallenges.io portfolio](https://devchallenges.io/portfolio/Santoz98) - My portfolio link on devchallenges.io consisting solutions to few responsive web design challenges.
 
 
